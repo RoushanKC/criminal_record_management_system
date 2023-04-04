@@ -1,4 +1,4 @@
-<h1>criminal_db_mgmt_system</h1>
+<h1>criminal_record_management_system</h1>
 
 ![splash](https://user-images.githubusercontent.com/54498757/229747305-51f6540f-13bc-4453-96db-f9b19a14b5b2.jpg)
 
